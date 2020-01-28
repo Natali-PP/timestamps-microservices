@@ -1,0 +1,30 @@
+*{
+    box-sizing: content-box;
+    margin: 0;
+}
+
+body{
+    font-family:  'Assistant', sans-serif;
+    font-size: 1rem;
+}
+.footer, .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1.5rem 0;
+    
+}
+
+h2, h3{
+    font-family:  'Crete Round', serif;
+    padding: 1.5rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1.75rem;
+}
